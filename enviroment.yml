@@ -1,1 +1,7 @@
-
+dependencies:
+  - python=3
+  - pip
+    - tkinter
+    - numpy
+    - pandas
+    - matplotlib
